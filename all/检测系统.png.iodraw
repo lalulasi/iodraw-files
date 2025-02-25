@@ -4,65 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IAG_d1f0sO0vbayk35Fq-5" target="IAG_d1f0sO0vbayk35Fq-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="428" y="280" />
-              <mxPoint x="270" y="280" />
-              <mxPoint x="270" y="340" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="IAG_d1f0sO0vbayk35Fq-5" target="IAG_d1f0sO0vbayk35Fq-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="428" y="280" />
-              <mxPoint x="580" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;虚假新闻检测系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="180" width="216" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAG_d1f0sO0vbayk35Fq-10" target="IAG_d1f0sO0vbayk35Fq-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAG_d1f0sO0vbayk35Fq-10" target="7n3cq4P_D3MxBCZuk7-j-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IAG_d1f0sO0vbayk35Fq-10" target="7n3cq4P_D3MxBCZuk7-j-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;前端系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=west;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="160" y="340" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAG_d1f0sO0vbayk35Fq-12" target="7n3cq4P_D3MxBCZuk7-j-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IAG_d1f0sO0vbayk35Fq-12" target="7n3cq4P_D3MxBCZuk7-j-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;后端系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;direction=west;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="480" y="340" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IAG_d1f0sO0vbayk35Fq-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;文件上传页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="160" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;文本输入UI&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="235" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;文本推理页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="310" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-6" value="文件上传服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="480" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-7" value="文本摘要提取服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="555" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-8" value="模型推理服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="630" y="450" width="50" height="170" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
