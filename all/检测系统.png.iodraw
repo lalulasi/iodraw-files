@@ -11,7 +11,7 @@
           <mxGeometry x="110" y="260" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-21" value="前端 (Vue&amp;nbsp;&lt;span class=&quot;hljs-number&quot;&gt;3&lt;/span&gt;) 视图层 文件上传/展示页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="260" width="270" height="110" as="geometry" />
+          <mxGeometry x="290" y="260" width="250" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="530" width="360" height="125" as="geometry" />
