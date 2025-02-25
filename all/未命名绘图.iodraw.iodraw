@@ -54,7 +54,7 @@
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-7" value="文本摘要提取服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="560" y="450" width="50" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="7n3cq4P_D3MxBCZuk7-j-8" value="" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="7n3cq4P_D3MxBCZuk7-j-8" value="模型推理服务" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="630" y="450" width="50" height="170" as="geometry" />
         </mxCell>
       </root>
