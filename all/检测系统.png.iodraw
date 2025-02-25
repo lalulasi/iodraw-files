@@ -13,11 +13,17 @@
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-21" value="前端 (Vue&amp;nbsp;&lt;span class=&quot;hljs-number&quot;&gt;3&lt;/span&gt;) 视图层 文件上传/展示页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="260" width="250" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="7n3cq4P_D3MxBCZuk7-j-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7n3cq4P_D3MxBCZuk7-j-22" target="7n3cq4P_D3MxBCZuk7-j-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-22" value="Flask后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="430" width="270" height="125" as="geometry" />
+          <mxGeometry x="110" y="420" width="360" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="7n3cq4P_D3MxBCZuk7-j-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7n3cq4P_D3MxBCZuk7-j-23" target="7n3cq4P_D3MxBCZuk7-j-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-23" value="Bert-CC模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="607.5" width="360" height="125" as="geometry" />
+          <mxGeometry x="110" y="600" width="360" height="125" as="geometry" />
         </mxCell>
         <mxCell id="7n3cq4P_D3MxBCZuk7-j-24" value="文件系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="790" width="360" height="125" as="geometry" />
