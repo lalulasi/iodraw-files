@@ -46,7 +46,7 @@
         <mxCell id="rqH82OaUMCIhPP_n3gU3-15" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="450" width="65" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rqH82OaUMCIhPP_n3gU3-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.378;exitY=0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rqH82OaUMCIhPP_n3gU3-10">
+        <mxCell id="rqH82OaUMCIhPP_n3gU3-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="rqH82OaUMCIhPP_n3gU3-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="235" y="550" as="sourcePoint" />
             <mxPoint x="285" y="500" as="targetPoint" />
