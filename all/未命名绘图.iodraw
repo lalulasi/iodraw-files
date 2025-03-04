@@ -33,10 +33,18 @@
         <mxCell id="TfGy9rCybNWPjX1yTyZH-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;推理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="310" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TfGy9rCybNWPjX1yTyZH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfGy9rCybNWPjX1yTyZH-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TfGy9rCybNWPjX1yTyZH-10" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;微调算法&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="195" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TfGy9rCybNWPjX1yTyZH-11" value="低参微调" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TfGy9rCybNWPjX1yTyZH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfGy9rCybNWPjX1yTyZH-11" target="TfGy9rCybNWPjX1yTyZH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfGy9rCybNWPjX1yTyZH-11" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;低参微调&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
