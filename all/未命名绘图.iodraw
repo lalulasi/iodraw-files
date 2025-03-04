@@ -61,7 +61,7 @@
             <mxPoint x="603" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTlruvDdcnAFm4fEOpuL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTlruvDdcnAFm4fEOpuL-23">
+        <mxCell id="RTlruvDdcnAFm4fEOpuL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.015;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RTlruvDdcnAFm4fEOpuL-23" target="RTlruvDdcnAFm4fEOpuL-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="420" as="targetPoint" />
           </mxGeometry>
@@ -70,7 +70,7 @@
           <mxGeometry x="810" y="380" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RTlruvDdcnAFm4fEOpuL-29" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="1010" y="400" width="90" height="60" as="geometry" />
+          <mxGeometry x="1000" y="400" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
