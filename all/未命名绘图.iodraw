@@ -51,9 +51,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RTlruvDdcnAFm4fEOpuL-20" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;记忆库&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="650" width="120" height="65" as="geometry" />
+          <mxGeometry x="690" y="650" width="120" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="RTlruvDdcnAFm4fEOpuL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTlruvDdcnAFm4fEOpuL-14">
+        <mxCell id="RTlruvDdcnAFm4fEOpuL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RTlruvDdcnAFm4fEOpuL-14" target="RTlruvDdcnAFm4fEOpuL-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="603" y="470" as="targetPoint" />
           </mxGeometry>
