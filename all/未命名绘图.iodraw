@@ -69,8 +69,8 @@
             <mxPoint x="1014" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RTlruvDdcnAFm4fEOpuL-32" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="1010" y="400" width="90" height="60" as="geometry" />
+        <mxCell id="RTlruvDdcnAFm4fEOpuL-32" value="输出回答" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="1010" y="400" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
