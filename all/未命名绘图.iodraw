@@ -114,11 +114,17 @@
         <mxCell id="rqH82OaUMCIhPP_n3gU3-35" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;RMSNorm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="456.25" y="80" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqH82OaUMCIhPP_n3gU3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqH82OaUMCIhPP_n3gU3-37" target="rqH82OaUMCIhPP_n3gU3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqH82OaUMCIhPP_n3gU3-37" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;FFN(SwiGLU)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="453.75" y="-10" width="140" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="rqH82OaUMCIhPP_n3gU3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rqH82OaUMCIhPP_n3gU3-39" target="rqH82OaUMCIhPP_n3gU3-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="rqH82OaUMCIhPP_n3gU3-39" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="47.5" height="40" as="geometry" />
+          <mxGeometry x="500" y="-80" width="47.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
