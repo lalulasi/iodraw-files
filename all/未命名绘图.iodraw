@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RTlruvDdcnAFm4fEOpuL-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输出回答&lt;/font&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="1010" y="400" width="130" height="80" as="geometry" />
+          <mxGeometry x="1010" y="388" width="130" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
