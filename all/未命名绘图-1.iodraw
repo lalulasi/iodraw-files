@@ -124,7 +124,7 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-151" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="522.5" width="130" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-156" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-156" value="在内存中进行分区，排序、组合后写到磁盘" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="291" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
