@@ -175,7 +175,7 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-83" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Structured output Parser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="780" width="189.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-84" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Structured output Parser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-84" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Auto-fixing parser&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1320" y="840" width="189.25" height="40" as="geometry" />
         </mxCell>
       </root>
