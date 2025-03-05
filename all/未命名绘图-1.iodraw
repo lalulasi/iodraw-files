@@ -54,7 +54,7 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-14" value="捕捉Bad case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-15" target="4X9ZUzIqEGqlDgV-NPiO-7">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-15" target="4X9ZUzIqEGqlDgV-NPiO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="945" y="750" />
