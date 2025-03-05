@@ -212,11 +212,20 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-165" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="330.19" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-166" target="4X9ZUzIqEGqlDgV-NPiO-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-166" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="350.57" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-167" target="4X9ZUzIqEGqlDgV-NPiO-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-167" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="370.57" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-168" target="4X9ZUzIqEGqlDgV-NPiO-172">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-168" value="分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="448.25" width="80" height="20" as="geometry" />
