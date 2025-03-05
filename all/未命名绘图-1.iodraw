@@ -55,8 +55,8 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-131" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="270" width="360" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-132" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="745" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-132" value="Map Shuffle" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="280" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
