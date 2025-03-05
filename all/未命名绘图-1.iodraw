@@ -16,8 +16,8 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-4" value="设计功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="532" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-5" value="设计功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="542" width="60" height="30" as="geometry" />
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-5" value="确定目标" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="502" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
