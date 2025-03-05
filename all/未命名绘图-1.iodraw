@@ -40,15 +40,13 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;验证迭代&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="562" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;dashed=1;" edge="1" parent="1">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.303;entryY=0.061;entryDx=0;entryDy=0;curved=1;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-9" target="4X9ZUzIqEGqlDgV-NPiO-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1167.5" y="555" as="sourcePoint" />
-            <mxPoint x="660" y="555" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1167.5" y="360" />
-              <mxPoint x="727.5" y="360" />
-              <mxPoint x="727.5" y="460" />
-              <mxPoint x="660.5" y="460" />
+              <mxPoint x="1160" y="360" />
+              <mxPoint x="705" y="360" />
+              <mxPoint x="705" y="555" />
+              <mxPoint x="664" y="555" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,7 +56,7 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-14" value="捕捉Bad case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-15" target="4X9ZUzIqEGqlDgV-NPiO-7">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-15" target="4X9ZUzIqEGqlDgV-NPiO-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="945" y="750" />
