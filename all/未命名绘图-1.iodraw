@@ -136,11 +136,17 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-150" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="130" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-151" target="4X9ZUzIqEGqlDgV-NPiO-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-151" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="522.5" width="130" height="27" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-156" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;在内存中进行分区，排序、组合后写到磁盘&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="280" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-157" target="4X9ZUzIqEGqlDgV-NPiO-165">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-157" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="350.38" width="80" height="20" as="geometry" />
