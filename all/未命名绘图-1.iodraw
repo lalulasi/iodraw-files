@@ -264,7 +264,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-107" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X9ZUzIqEGqlDgV-NPiO-106">
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-107" value="select example" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X9ZUzIqEGqlDgV-NPiO-106">
           <mxGeometry x="0.1178" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
