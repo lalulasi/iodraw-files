@@ -124,8 +124,14 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-148" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="130" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-149" target="4X9ZUzIqEGqlDgV-NPiO-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-149" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="442.5" width="130" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-150" target="4X9ZUzIqEGqlDgV-NPiO-162">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-150" value="分区1 分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="480" width="130" height="27" as="geometry" />
