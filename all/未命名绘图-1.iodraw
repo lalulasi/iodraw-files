@@ -10,9 +10,6 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-198" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;文档加载&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-199" target="4X9ZUzIqEGqlDgV-NPiO-197">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-199" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="100" y="180" width="40" height="60" as="geometry" />
         </mxCell>
@@ -25,8 +22,8 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-203" value="DB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4X9ZUzIqEGqlDgV-NPiO-197" target="4X9ZUzIqEGqlDgV-NPiO-197">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-206" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="250" y="225" width="60" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
