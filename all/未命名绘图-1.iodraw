@@ -134,10 +134,10 @@
           <mxGeometry x="880" y="328.75" width="90" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-160" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="340" width="80" height="20" as="geometry" />
+          <mxGeometry x="800" y="429.5" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-161" value="分区2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="338.75" width="90" height="22.5" as="geometry" />
+          <mxGeometry x="880" y="428.25" width="90" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
