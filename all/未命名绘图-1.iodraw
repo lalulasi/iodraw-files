@@ -142,6 +142,9 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-72" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Model I/O&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1421" y="300" width="99" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-73" value="Language Model" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="340" width="169" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
