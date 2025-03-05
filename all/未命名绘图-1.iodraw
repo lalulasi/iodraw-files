@@ -151,6 +151,12 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-165" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="350" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-166" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="370.38" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-167" value="分区1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="380.38" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
