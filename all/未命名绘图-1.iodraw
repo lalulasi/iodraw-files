@@ -46,8 +46,8 @@
         <mxCell id="4X9ZUzIqEGqlDgV-NPiO-14" value="捕捉Bad case" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="900" y="620" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="915" y="650" width="60" height="30" as="geometry" />
+        <mxCell id="4X9ZUzIqEGqlDgV-NPiO-15" value="迭代优化prompt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="915" y="650" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
