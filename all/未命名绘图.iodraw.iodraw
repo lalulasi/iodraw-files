@@ -7,7 +7,7 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-59" value="真确0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="120" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-60" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-60" value="错误1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="120" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
