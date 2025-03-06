@@ -22,14 +22,20 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-65" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;海&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="520" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-67" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;建放鞭炮消除病毒&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-67" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;建鞭炮消除病毒&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="520" width="80" height="45" as="geometry" />
         </mxCell>
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-68" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="520" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-69" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;[CLS]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;放&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="520" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-70" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;议&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="530" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-71" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;放&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="530" width="80" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
