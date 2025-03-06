@@ -34,7 +34,7 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-16" value="likes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="160" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-17" value="[CLS]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-17" value="play" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="833.5" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-18" value="[CLS]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
