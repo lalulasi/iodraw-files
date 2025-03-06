@@ -10,8 +10,8 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-60" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;错误1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="520" width="60" height="30" as="geometry" />
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-62" value="输入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="520" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
