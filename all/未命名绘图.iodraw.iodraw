@@ -28,10 +28,10 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-14" value="[SEP]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="160" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-15" value="[CLS]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-15" value="he" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="160" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="M0PDP5AV2ouEnW2w_mRo-16" value="[CLS]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-16" value="likes" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="160" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-17" value="[CLS]" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
