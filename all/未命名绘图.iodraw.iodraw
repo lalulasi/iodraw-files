@@ -31,6 +31,15 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-283" value="X&lt;sub&gt;t+1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="604" y="530" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-284" value="X&lt;sub&gt;t-1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="154" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-285" value="X&lt;sub&gt;t&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="384" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-286" value="X&lt;sub&gt;t+1&lt;/sub&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="614" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
