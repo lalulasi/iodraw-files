@@ -220,6 +220,9 @@
         <mxCell id="M0PDP5AV2ouEnW2w_mRo-133" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.15714285714283846;" vertex="1" parent="1">
           <mxGeometry x="210" y="480" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="M0PDP5AV2ouEnW2w_mRo-134" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0.15714285714283846;" vertex="1" parent="1">
+          <mxGeometry x="310" y="477.5" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
