@@ -22,6 +22,9 @@
         <mxCell id="uriZ7328L-TAvEyH4x_n-3" value="&amp;nbsp;Ollama Service&amp;nbsp;&lt;div&gt;Deployed LLaMA3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uriZ7328L-TAvEyH4x_n-4" value="Generated Summary&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
