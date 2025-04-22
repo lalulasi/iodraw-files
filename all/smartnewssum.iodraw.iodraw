@@ -20,15 +20,15 @@
           <mxGeometry x="345" y="430" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;SmartNewsSum&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="630" width="130" height="40" as="geometry" />
+          <mxGeometry x="62.5" y="500" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MHGlucKEFo4V4PdKKJP2-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHGlucKEFo4V4PdKKJP2-11" value="LangChain Map阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="650" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="650" width="195" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MHGlucKEFo4V4PdKKJP2-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHGlucKEFo4V4PdKKJP2-13" value="LangChain Map阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="650" width="195" height="110" as="geometry" />
         </mxCell>
       </root>
