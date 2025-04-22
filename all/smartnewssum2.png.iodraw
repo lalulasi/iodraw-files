@@ -10,6 +10,9 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Input Text 长输入文本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="uriZ7328L-TAvEyH4x_n-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="uriZ7328L-TAvEyH4x_n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Flask API&amp;nbsp;&lt;div&gt;/generate_summary&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="350" y="80" width="120" height="40" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry x="530" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uriZ7328L-TAvEyH4x_n-3" value="&amp;nbsp;Ollama Service&amp;nbsp;&lt;div&gt;Deployed LLaMA3&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uriZ7328L-TAvEyH4x_n-4" value="Generated Summary&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
