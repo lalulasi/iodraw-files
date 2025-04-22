@@ -14,7 +14,12 @@
           <mxGeometry x="-5" y="360" width="895" height="440" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHGlucKEFo4V4PdKKJP2-7" target="MHGlucKEFo4V4PdKKJP2-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="445" y="560" />
+              <mxPoint x="128" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MHGlucKEFo4V4PdKKJP2-7" target="MHGlucKEFo4V4PdKKJP2-11">
           <mxGeometry relative="1" as="geometry" />
@@ -31,7 +36,7 @@
           <mxGeometry x="345" y="430" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;SmartNewsSum&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="500" width="130" height="40" as="geometry" />
+          <mxGeometry x="10" y="490" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHGlucKEFo4V4PdKKJP2-11" target="MHGlucKEFo4V4PdKKJP2-15">
           <mxGeometry relative="1" as="geometry" />
