@@ -11,7 +11,7 @@
           <mxGeometry x="330" y="190" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-2" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="360" width="900" height="580" as="geometry" />
+          <mxGeometry x="-5" y="360" width="900" height="480" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="405" width="380" height="180" as="geometry" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-13" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LangChain Map阶段&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(任务导向的文本摘要生成)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="650" width="195" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MHGlucKEFo4V4PdKKJP2-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="910" width="210" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
