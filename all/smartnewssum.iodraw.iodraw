@@ -29,7 +29,12 @@
           <mxGeometry x="347.5" y="650" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MHGlucKEFo4V4PdKKJP2-12" target="MHGlucKEFo4V4PdKKJP2-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="768" y="840" />
+              <mxPoint x="445" y="840" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LangChain Map阶段&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(任务导向的文本摘要生成)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="650" width="195" height="110" as="geometry" />
