@@ -22,7 +22,7 @@
         <mxCell id="MHGlucKEFo4V4PdKKJP2-8" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;SmartNewsSum&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="62.5" y="500" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MHGlucKEFo4V4PdKKJP2-11" value="LangChain Map阶段&lt;div&gt;(任务导向的文本摘要生成)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MHGlucKEFo4V4PdKKJP2-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LangChain Map阶段&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;(任务导向的文本摘要生成)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="347.5" y="650" width="195" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MHGlucKEFo4V4PdKKJP2-12" value="LangChain Map阶段&lt;div&gt;(任务导向的文本摘要生成)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
