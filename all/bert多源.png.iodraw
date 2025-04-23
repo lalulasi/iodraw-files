@@ -87,10 +87,21 @@
           <mxGeometry x="1020" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-47" target="vwczUs0jbQpl747Hi4ZQ-57">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-47" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-48" target="vwczUs0jbQpl747Hi4ZQ-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-48" value="总结2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="120" height="60" as="geometry" />
