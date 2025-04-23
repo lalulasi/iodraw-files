@@ -72,7 +72,7 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-18" value="表示特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwczUs0jbQpl747Hi4ZQ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-22" value="虚假新闻检测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
