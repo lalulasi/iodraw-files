@@ -131,6 +131,9 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-58" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1397.5" y="200" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-62" value="最终摘要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="490" width="160" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
