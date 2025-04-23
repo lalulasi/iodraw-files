@@ -55,7 +55,7 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-4" target="vwczUs0jbQpl747Hi4ZQ-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vwczUs0jbQpl747Hi4ZQ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-18" value="表示特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
