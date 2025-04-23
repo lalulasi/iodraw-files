@@ -7,6 +7,9 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-1" value="新闻文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-2" value="序列编码与上下文建模" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="150" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
