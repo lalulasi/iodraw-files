@@ -21,6 +21,14 @@
             <mxPoint x="660" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-4" target="vwczUs0jbQpl747Hi4ZQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="250" />
+              <mxPoint x="370" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-4" value="表示特征提取融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -28,13 +36,13 @@
           <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-10" value="时间特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-12" value="文本特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="474" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-14" value="来源特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
