@@ -29,6 +29,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-4" target="vwczUs0jbQpl747Hi4ZQ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="250" />
+              <mxPoint x="690" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-4" value="表示特征提取融合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -43,6 +51,9 @@
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-14" value="来源特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-4" target="vwczUs0jbQpl747Hi4ZQ-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
