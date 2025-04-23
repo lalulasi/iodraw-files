@@ -8,13 +8,16 @@
           <mxGeometry x="130" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-29" value="分割1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="30" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-30" value="分割2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="150" width="90" height="50" as="geometry" />
+          <mxGeometry x="305" y="130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-31" value="分割n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="310" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.418;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-28" target="vwczUs0jbQpl747Hi4ZQ-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
