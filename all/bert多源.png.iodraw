@@ -93,13 +93,13 @@
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-53" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="125" width="90" height="45" as="geometry" />
+          <mxGeometry x="1380" y="120" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-54" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="185" width="90" height="45" as="geometry" />
+          <mxGeometry x="1380" y="180" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-55" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1370" y="260" width="90" height="45" as="geometry" />
+          <mxGeometry x="1380" y="255" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
