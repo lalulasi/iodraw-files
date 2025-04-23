@@ -92,8 +92,11 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-49" value="总结n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwczUs0jbQpl747Hi4ZQ-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="125" width="120" height="60" as="geometry" />
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-53" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="125" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-54" value="总结1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="135" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
