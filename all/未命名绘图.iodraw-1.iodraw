@@ -81,7 +81,10 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-22" value="虚假新闻检测结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vwczUs0jbQpl747Hi4ZQ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-25" target="vwczUs0jbQpl747Hi4ZQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-25" value="多源验证机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
