@@ -68,6 +68,9 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-42" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="870" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-43" target="vwczUs0jbQpl747Hi4ZQ-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-43" value="" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="-10" width="160" height="110" as="geometry" />
         </mxCell>
@@ -88,6 +91,9 @@
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-49" value="总结n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
