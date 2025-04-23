@@ -106,6 +106,13 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-48" value="总结2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vwczUs0jbQpl747Hi4ZQ-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-49" target="vwczUs0jbQpl747Hi4ZQ-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1190" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-49" value="总结n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
