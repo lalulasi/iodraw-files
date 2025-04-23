@@ -41,7 +41,7 @@
           <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-8" value="二分类推理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-10" target="vwczUs0jbQpl747Hi4ZQ-18">
           <mxGeometry relative="1" as="geometry" />
@@ -58,8 +58,8 @@
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vwczUs0jbQpl747Hi4ZQ-14" target="vwczUs0jbQpl747Hi4ZQ-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="390" />
-              <mxPoint x="534" y="390" />
+              <mxPoint x="690" y="410" />
+              <mxPoint x="534" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vwczUs0jbQpl747Hi4ZQ-18" value="表示特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="474" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
