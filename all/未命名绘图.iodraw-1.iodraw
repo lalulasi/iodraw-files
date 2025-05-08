@@ -172,7 +172,7 @@
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-57" value="Text prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="-90" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="INJ8V5rj4YXjJvE2BDAH-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-58" value="Task Classification" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="-90" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
