@@ -206,7 +206,7 @@
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-78" value="词嵌入以及token的位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="166" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="INJ8V5rj4YXjJvE2BDAH-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-79" value="12层Transformer encoder结构" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="174" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
