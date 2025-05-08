@@ -195,16 +195,19 @@
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="390" as="sourcePoint" />
-            <mxPoint x="709.98" y="480" as="targetPoint" />
+            <mxPoint x="235" y="360" as="sourcePoint" />
+            <mxPoint x="704.98" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="530" />
-              <mxPoint x="710" y="530" />
+              <mxPoint x="235" y="500" />
+              <mxPoint x="705" y="500" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-78" value="词嵌入以及token的位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="450" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-79" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="174" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
