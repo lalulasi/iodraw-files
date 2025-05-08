@@ -166,13 +166,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="INJ8V5rj4YXjJvE2BDAH-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="705" y="-10" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-55" value="Layer Norm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647.5" y="6" width="115" height="40" as="geometry" />
+          <mxGeometry x="647.5" y="7" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-57" value="Text prediction" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="-90" width="80" height="40" as="geometry" />
