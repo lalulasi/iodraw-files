@@ -121,6 +121,9 @@
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-34" value="Masked Multi&lt;div&gt;Self Attention&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="637.5" y="245" width="135" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-37" target="INJ8V5rj4YXjJvE2BDAH-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
           <mxGeometry x="699" y="208" width="12" height="12" as="geometry" />
         </mxCell>
@@ -137,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="645" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="647.5" y="150" width="115" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
