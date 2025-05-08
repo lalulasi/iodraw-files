@@ -199,8 +199,14 @@
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-76" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="450" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="INJ8V5rj4YXjJvE2BDAH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-68" target="INJ8V5rj4YXjJvE2BDAH-76">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-68" target="INJ8V5rj4YXjJvE2BDAH-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="402" />
+              <mxPoint x="460" y="500" />
+              <mxPoint x="710" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
