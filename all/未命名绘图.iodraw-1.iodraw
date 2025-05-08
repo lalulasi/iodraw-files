@@ -167,7 +167,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-55" value="Layer Norm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="647.5" y="5" width="115" height="40" as="geometry" />
+          <mxGeometry x="647.5" y="7" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
