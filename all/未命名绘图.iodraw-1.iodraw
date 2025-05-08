@@ -145,11 +145,14 @@
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-45" value="Layer Norm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="647.5" y="169" width="115" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="INJ8V5rj4YXjJvE2BDAH-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-47" target="INJ8V5rj4YXjJvE2BDAH-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-47" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="699" y="58" width="12" height="12" as="geometry" />
+          <mxGeometry x="699" y="66" width="12" height="12" as="geometry" />
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-48" value="Feed Forward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="653.75" y="96" width="102.5" height="30" as="geometry" />
+          <mxGeometry x="653.75" y="100" width="102.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="INJ8V5rj4YXjJvE2BDAH-48" target="INJ8V5rj4YXjJvE2BDAH-47">
           <mxGeometry relative="1" as="geometry" />
@@ -159,7 +162,7 @@
             <Array as="points">
               <mxPoint x="705" y="150" />
               <mxPoint x="780" y="150" />
-              <mxPoint x="780" y="64" />
+              <mxPoint x="780" y="72" />
             </Array>
           </mxGeometry>
         </mxCell>
