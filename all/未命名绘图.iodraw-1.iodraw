@@ -204,7 +204,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-78" value="词嵌入以及token的位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="434" y="490" width="166" height="30" as="geometry" />
+          <mxGeometry x="400" y="450" width="166" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
