@@ -122,7 +122,7 @@
           <mxGeometry x="637.5" y="250" width="135" height="50" as="geometry" />
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.summing_function;" vertex="1" parent="1">
-          <mxGeometry x="670" y="160" width="70" height="70" as="geometry" />
+          <mxGeometry x="695" y="180" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
