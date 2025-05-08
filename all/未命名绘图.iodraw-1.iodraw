@@ -210,7 +210,7 @@
           <mxGeometry x="515" y="184" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="INJ8V5rj4YXjJvE2BDAH-80" value="1.Transformer作为特征抽取器&lt;div&gt;2.语言模型作为训练目标，根据前有几个单词预测下一个词&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="145" y="-70" width="365" height="30" as="geometry" />
+          <mxGeometry x="122.5" y="-60" width="365" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
