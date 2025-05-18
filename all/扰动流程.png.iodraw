@@ -1,35 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="24.7.17">
-  <diagram name="第 1 页" id="OVrZ9QpL33QxJgyyMsiw">
+  <diagram name="第 1 页" id="zj-Gh6IYJBLCrqJH9hAB">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-1" target="tpQfXCTvkC6e5bDa76kt-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-1" value="原始文本" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-2" target="tpQfXCTvkC6e5bDa76kt-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;语义扰动构造 → x_sem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="331" y="430" width="166" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-4" target="tpQfXCTvkC6e5bDa76kt-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;获取embedding并允许requires_grad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="287" y="555" width="253" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-6" target="tpQfXCTvkC6e5bDa76kt-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-6" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;计算loss并回传梯度 → grad&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="312" y="700" width="203" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-8" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;FGSM梯度扰动&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;x_fgsm = x_sem + ε * sign(grad)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="297" y="850" width="233" height="60" as="geometry" />
+        <mxCell id="MNYfVfpVC9YuHWKgQ3QO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
