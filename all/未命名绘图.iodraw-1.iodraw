@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-2" value="&lt;div&gt;语义扰动构造 → x_sem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330.5" y="430" width="166" height="60" as="geometry" />
+          <mxGeometry x="331" y="430" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-4" target="tpQfXCTvkC6e5bDa76kt-6">
           <mxGeometry relative="1" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="312" y="700" width="203" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-8" value="&lt;div&gt;x_fgsm = x_sem + ε * sign(grad)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="840" width="233" height="60" as="geometry" />
+          <mxGeometry x="297" y="850" width="233" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
