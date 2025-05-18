@@ -5,13 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MNYfVfpVC9YuHWKgQ3QO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="90" width="630" height="190" as="geometry" />
+          <mxGeometry x="40" y="80" width="630" height="190" as="geometry" />
         </mxCell>
         <mxCell id="MNYfVfpVC9YuHWKgQ3QO-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;用户浏览器/客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="115" width="200" height="140" as="geometry" />
+          <mxGeometry x="60" y="105" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MNYfVfpVC9YuHWKgQ3QO-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;前端(Vue3)视图层 文件上传/展示页面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="115" width="370" height="140" as="geometry" />
+          <mxGeometry x="280" y="105" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="MNYfVfpVC9YuHWKgQ3QO-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
