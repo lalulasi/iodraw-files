@@ -8,22 +8,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-1" value="原始文本" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="377" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-2" target="tpQfXCTvkC6e5bDa76kt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="tpQfXCTvkC6e5bDa76kt-2" value="&lt;div&gt;语义扰动构造 → x_sem&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="440" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-4" target="tpQfXCTvkC6e5bDa76kt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="377" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpQfXCTvkC6e5bDa76kt-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="710" width="120" height="60" as="geometry" />
+          <mxGeometry x="377" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
