@@ -19,10 +19,10 @@
         <mxCell id="tpQfXCTvkC6e5bDa76kt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tpQfXCTvkC6e5bDa76kt-4" target="tpQfXCTvkC6e5bDa76kt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tpQfXCTvkC6e5bDa76kt-4" value="&lt;div&gt;获取embedding并允许requires_grad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tpQfXCTvkC6e5bDa76kt-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tpQfXCTvkC6e5bDa76kt-6" value="&lt;div&gt;计算loss并回传梯度 → grad&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="377" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
